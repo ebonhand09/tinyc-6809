@@ -42,7 +42,7 @@ void GetChar() {
 }
 
 /**
- * Expected - 
+ * Expected - Report what was expected, and halt
  */
 void Expected(char *s) {
     char error_buffer[error_buffer_size]; // string storage space
